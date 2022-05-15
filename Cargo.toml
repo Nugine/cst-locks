@@ -1,0 +1,13 @@
+[package]
+name = "cst-locks"
+version = "0.1.0-dev"
+edition = "2021"
+description = "Consistent locks"
+license = "MIT"
+repository = "https://github.com/Nugine/cst-locks"
+readme = "README.md"
+documentation = "https://docs.rs/cst-locks"
+keywords = ["mutex", "rwlock", "lock", "sync", "data-structure"]
+categories = ["concurrency", "data-structures"]
+
+[dependencies]
